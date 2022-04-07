@@ -1,5 +1,5 @@
 # pekofy
-語尾にぺこをつけるべこ
+語尾にぺこをつけるぺこ
 ```
 $ pip install -r requirements.txt
 $ ./pekofy
